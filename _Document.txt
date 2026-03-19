@@ -1,0 +1,29 @@
+タイトル画面：
+    Enter　　   :　ゲームスタート
+
+ゲーム画面：
+    WASD	:　移動
+    Space       :  ブレーキ
+    左クリック	:　射撃
+
+
+ライブラリ：
+
+　Imgui
+
+  Assimp
+
+
+アセット：
+
+  Vigilante_West_Tank_M1A1Abrams
+
+  Fire_EXP_Vol01_Free
+
+  MsvFx_Niagara_Explosion_Pack_01
+    
+  RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0)
+
+
+個人製作
+製作期間約4ヶ月
